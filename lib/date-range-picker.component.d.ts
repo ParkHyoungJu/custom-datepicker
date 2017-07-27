@@ -25,5 +25,7 @@ export declare class DateRangePickerComponent implements OnInit {
     isWithinRange(day: Date): boolean;
     isDateRangeFrom(day: Date): boolean;
     isDateRangeTo(day: Date): boolean;
+    holiday(date:any);
     private handleBlurClick(e);
+    
 }

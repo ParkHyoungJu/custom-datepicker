@@ -22,7 +22,7 @@
   "_resolved": "https://registry.npmjs.org/ng-pick-daterange/-/ng-pick-daterange-1.0.0.tgz",
   "_shasum": "e2889a0ee069bfe7331f6da1406686b1bd1b6362",
   "_spec": "ng-pick-daterange",
-  "_where": "C:\\example",
+  "_where": "C:\\fltgraph\\fltgraph-web\\src\\main\\webapp\\angular",
   "author": {
     "name": "daniel pan",
     "email": "myron.yk.pan@gmail.com"
